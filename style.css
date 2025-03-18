@@ -123,7 +123,7 @@ h3 , .del ,.reset , .equal{
     }
     #valuebox{
         height: 70px;
-        width: 400px;
+        width: 300px;
         border-radius: 10px;
         /* background-color: rgb(8, 16, 101); */
         color: rgb(0, 0, 0);
@@ -134,11 +134,11 @@ h3 , .del ,.reset , .equal{
         border: 1px solid black;
         border-radius: 10px;
         display: grid;
-        grid-template-columns: repeat(4,80px);
+        grid-template-columns: repeat(5,50px);
         padding: 20px;
-        gap: 10px;
+        gap: 20px;
         height:fit-content;
-        width: fit-content;
+        width: 300px;
         background-color: rgba(80, 79, 90, 0.495);
         
         
